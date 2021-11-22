@@ -1,0 +1,5 @@
+A wallet in the crypto universe serves a similar purpose as the wallet you use to hold your cash, card, and identification. Wallets, featured on Rarible and any other NFT marketplace, are digital pocketbooks that store personal cryptocurrencies used for trade NFTs. A wallet is key for anyone to participate in NFT exchanges. There are many wallets with many different features, which is why Rarible allows you to select the best wallet for your personal needs.
+
+### **_What is verification?_**
+
+Verification makes Rarible safer by preventing spam and ensuring only authentic creators are selling on our open marketplace. To be verified on Rarible the given account will be manually reviewed by a staff member, who traces the user’s biography, creative process, and internet footprint to confirm their identity and ownership of any NFTs. Those who have successfully achieved verification will be awarded with a yellow checkmark on their profile, next to their profile picture. Also, only verified members can be featured on the homepage.
