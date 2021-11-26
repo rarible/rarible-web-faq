@@ -1,5 +1,7 @@
-While we could write endlessly on this topic, we’ll try to keep it brief:
+Wait, Rarible is NOT the only marketplace out there? When did that happen? Ok, kidding. But here’s a few reasons you might love Rarible:
 
-Rarible is an easy-to-navigate NFT marketplace, but it's also so much more. No matter what type of NFT you want to create, collect, and/or sell, we harness blockchain technology to allow any user — expert or beginner — to easily create and mint their digital creations. We’ve also removed any barriers of entry without compromising your security. One example of fewer barriers is that Rarible works with multiple wallet providers.
+1. Mint for free! Other marketplaces force you to cover all minting fees — we have a free option.
+2. Multi-chain: Some marketplaces only work on one blockchain. That means you miss out on NFTs you’d love which exist on other chains.
+3. Pay with credit card—not everybody is comfortable with buying cryptocurrencies. Rarible lets you transact with your credit card like in any non-crypto online store.
 
-To learn more about what makes Rarible unique, visit our [About](https://rarible.com/) section.
+We can go on about it all day, of course. See our [About](https://rarible.com/about) section for more context.

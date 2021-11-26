@@ -1,0 +1,1 @@
+Follow us on [Twitter](https://twitter.com/rarible), join our [Discord](https://discord.com/invite/hwy5hQz) and browse our [blog](https://rarible.medium.com/) for cool educational content! Our community and our own content is happy to welcome you (and we’re sure they’ll love your art, too)

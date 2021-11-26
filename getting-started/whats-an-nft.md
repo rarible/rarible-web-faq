@@ -1,11 +1,41 @@
-NFT stands for **_non-fungible token_**. Basically, NFTs are tokens that serve as proof of ownership for assets. At this point NFTs mostly represent digital art, but it can be anything from tweets and magazine articles to concept cars and real estate. Sky's the limit.
+NFTs prove ownership of a unique digital asset like art, music, collectibles, videos or anything else with blockchain technology.
 
-So what makes NFTs so good at representing ownership? NFTs live on the blockchain, meaning they're easy to track, and their authenticity can be easily verified at any time. When you say that you own a Basquiat painting, you have to make sure it’s been fully attributed if you want people to believe that it’s genuine - and even then, some will likely question that. However, when you hold a Crypto Punk in your crypto wallet, anyone can see it and check if it’s 100% legit in a matter of a few clicks.
+NFT stands for non-fungible token. That sounds like an intimidating technical term (no more nerd talk, promise!). But NFTs are just digital certificates of authenticity.
 
-NFTs are also _non-fungible_, meaning that one token cannot be replaced with another (unlike, say, a $5 dollar bill) due to their uniqueness. However, on Rarible.com we have NFTs that have multiple editions... okay, let’s not jump ahead.
+If you buy a physical painting, you know it’s real because you see the artist’s signature on the canvas. Somebody can photocopy the painting, but they don’t own it — you do. Before NFTs, digital assets were like photocopies:
 
-### **_And what’s a blockchain?_**
+You can see who _posted_ something, but you can’t see who _owns_ an Instagram post, Pinterest Pin or Reddit meme.
 
-A blockchain is a form of immutable public ledger which records any transaction that takes place on it. The main idea behind blockchains is to generate trust without the need for a trusted third party.
+NFTs are like a signature for digital items: They authenticate ownership of digital assets like art, collectibles, music, videos, in-game assets, and more. Just like physical certificates, they document:
 
-Ethereum has been considered to be the original blockchain for NFTs as it pioneered smart contracts (don’t worry, we’ll get into that later), but there are other blockchains that are great for NFTs, like Flow, Tezos, Polygon and Solana, among others.
+- Who created it
+- When it was created
+- Who bought it (and when)
+- The price(s) it solds for
+- Who owns it now
+
+_(Technically, NFTs can contain any data the creator wants to include, but the above are most relevant.)_
+
+All of this is public via a blockchain, so anyone can trace each of your NFTs from the original creator all the way to your wallet—and verify its authenticity (even the friends who call you crazy for buying a profile picture 😉).
+
+But owning digital assets is more than “nice to have”, a fun hobby or a digital stamp collection:
+
+Some NFTs unlock digital (or physical) experiences, grant access to exclusive communities, let you contribute to projects, grant premium access to software products… We could keep listing awesome features, but that list would be endless and our writer needs to get this done before tomorrow’s meeting. Tbh, this technology is so new, we probably haven’t even seen 4.20% of the use cases.
+
+## And what is a blockchain?
+
+A blockchain is a network of computers that track transactions in their network and generate a giant ledger of who owns what (and how much of it). That’s a lot of beep boop action!
+
+So if you ignore your friends’ well-meaning advice and spend six figures on a CryptoPunk, computers around the world confirm you as the NFTs new owner—and ensure it stays in your wallet.
+
+Blockchains that host NFTs include:
+
+- Flow
+- Tezos
+- Polygon
+- Ethereum
+- Solana
+
+...and many more
+
+Rarible currently enables selling and buying digital assets on the Ethereum and Flow blockchains, with more to come..

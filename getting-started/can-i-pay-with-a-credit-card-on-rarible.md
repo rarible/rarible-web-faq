@@ -1,0 +1,1 @@
+Yes, but not always. You can buy fixed price listings with your credit card and never have to buy cryptocurrency. Auctions are crypto-exclusive for now. Read [this post](https://rarible.medium.com/buy-nfts-with-your-credit-card-on-rarible-com-eccc43d8fe00) for more information.
