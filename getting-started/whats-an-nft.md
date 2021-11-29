@@ -22,7 +22,7 @@ But owning digital assets is more than “nice to have”, a fun hobby or a digi
 
 Some NFTs unlock digital (or physical) experiences, grant access to exclusive communities, let you contribute to projects, grant premium access to software products… We could keep listing awesome features, but that list would be endless and our writer needs to get this done before tomorrow’s meeting. Tbh, this technology is so new, we probably haven’t even seen 4.20% of the use cases.
 
-## And what is a blockchain?
+## What is a blockchain?
 
 A blockchain is a network of computers that track transactions in their network and generate a giant ledger of who owns what (and how much of it). That’s a lot of beep boop action!
 

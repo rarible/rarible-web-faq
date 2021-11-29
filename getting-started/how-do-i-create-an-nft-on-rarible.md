@@ -1,10 +1,8 @@
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1633787130/video_to_markdown/images/youtube--dQw4w9WgXcQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-
-Turning your creations into NFTs on Rarible takes less than 5 minutes (my record is 2:47, see if you can beat it 😉).
+Turning your creations into NFTs on Rarible takes less than 5 minutes (my record is 2:47, see if you can beat it 😉 don’t rush if you’re not sure what you’re doing though!).
 
 Click _Create_ in the top right corner of the Rarible homepage to get started. We delist all stolen art, so listing art you don’t own only leaves you paying gas and making nothing.
 
-Enough of the disclaimers—you’re here to mint some NFTs, aren’t you?
+Enough of the disclaimers — you’re here to mint some NFTs, aren’t you?
 
 Configure the details of your future NFT:
 

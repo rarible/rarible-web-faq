@@ -11,4 +11,4 @@ Try completing the following:
 7. Disable any adblockers, which may prevent data transfers.
 8. Adjust advanced security settings that could be preventing your browser loading images and completing tasks.
 
-If you are continuing to experience problems, please contact us.
+If you are continuing to experience problems, please [contact us](https://rariblecom.zendesk.com/hc/en-us/requests/new).

@@ -1,10 +1,8 @@
 Your physical wallet probably contains your money, a form of ID, and maybe pictures of your loved ones (we’ll ignore that 3 year-old Starbuck’s membership card with $1.83 on it).
 
-Your crypto wallet does that on a blockchain. It has an “ID” (a long string of numbers and letters), your cryptocurrencies and any NFTs you bought with those cryptocurrencies. And trust us, you’ll end up with something like that Starbuck’s gift card too.
+Your crypto wallet does that on a blockchain. It has an “ID” (a long string of numbers and letters), your cryptocurrencies and any NFTs you bought with those cryptocurrencies. There are a number of wallet providers, including Metamask (the most popular and easy to use), Fortmatic, Coinbase and Rainbow, among others.
 
-There are a number of wallet providers, among them Metamask (the most popular and easy to use), Fortmatic, Coinbase and Rainbow—among others.
-
-When you create a crypto wallet, you get a “seed phrase”—a series of words which let you recover your currencies or NFTs if you lose access.
+When you create a crypto wallet, you get a “seed phrase” — a series of words which let you recover your currencies or NFTs if you lose access.
 
 **NEVER GIVE THIS PHRASE TO ANYONE.** Anyone who knows your seed phrase has full access to your wallet and can buy, sell or transfer any funds or assets. Neither Rarible support nor any trustworthy individual or organization will ever ask for your seed phrase.
 

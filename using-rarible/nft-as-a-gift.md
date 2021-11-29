@@ -1,4 +1,4 @@
-Yes! As long as you’ve got their wallet address, you can make your friends smile by sending them an NFT.
+As long as you’ve got their wallet address, you can make your friends smile by sending them an NFT.
 
 1. Go to your profile page and:
 2. Open the Owned tab.
