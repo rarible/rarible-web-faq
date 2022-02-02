@@ -6,20 +6,22 @@ Enough of the disclaimers — you’re here to mint some NFTs, aren’t you?
 
 Configure the details of your future NFT:
 
-1. Choose whether your NFT will be a single edition or multiple edition. Select _Single_ to create a one of a kind or _Multiple_ to create a series of the same work.
+1. Choose which blockchain you'd like to mint your NFT on.
 
-2. Upload your file. It can be a PNG, GIF, WEBP, MP4 or MP3. Keep it under 100 mb size.
+2. Choose whether your NFT will be a single edition or multiple edition. Select _Single_ to create a one of a kind or _Multiple_ to create a series of the same work.
 
-3. Choose a collection for your NFTs. The collection is like a folder for your NFTs – you can choose the default RARI collection (Rarible Singles) or create your own to make it easier for fans to find your work.
+3. Upload your file. It can be a PNG, GIF, WEBP, MP4 or MP3. Keep it under 100 mb size.
 
-4. Give your art an attention-grabbing title and a compelling description so people can’t resist buying it!
+4. Choose a collection for your NFTs. The collection is like a folder for your NFTs – you can choose the default RARI collection (Rarible Singles) or create your own to make it easier for fans to find your work.
 
-5. Choose the sale type – fixed price, open auction or timed auction.
+5. Give your art an attention-grabbing title and a compelling description so people can’t resist buying it!
 
-6. Select the royalties you want to receive from every secondary sale (you receive these fees based on the total sale price each time your NFT sells).
+6. Choose the sale type – fixed price, open auction or timed auction.
 
-7. Add Unlockable content like secret links, vector files or other things (that’s optional).
+7. Select the royalties you want to receive from every secondary sale (you receive these fees based on the total sale price each time your NFT sells).
 
-8. Enable Free Minting to skip gas fees (if you want to).
+8. Add Unlockable content like secret links, vector files or other things (that’s optional).
+
+9. Enable Free Minting to skip gas fees (if you want to).
 
 Click “Create item”, sign the transactions with your wallet, and your art is now listed on Rarible!
