@@ -4,7 +4,7 @@ More specifically, that means you can choose which audience you want to reach, t
 
 The Web3 space has no bounds, so neither do we.
 
-Rarible currently supports Ethereum, Polygon, Solana, Flow and Tezos, although we’re planning to integrate more blockchains in the near future.
+Rarible currently supports Ethereum, Polygon, Solana and Tezos, although we’re planning to integrate more blockchains in the near future.
 
 You can switch between the supported blockchains under the “Explore” tab on Rarible.com. When you mint your (first) NFT, you need to choose which blockchain it’s on.
 
